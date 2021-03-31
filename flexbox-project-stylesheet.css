@@ -1,0 +1,344 @@
+.container{
+
+    display: flex;
+
+    flex-direction: row;
+
+    flex-wrap: wrap;
+}
+
+h1{
+
+        text-align: center;
+    
+        color: red;
+    
+        font-weight: bold;
+    
+        font-style: oblique;
+    
+        font-size: 40px;
+    
+}
+
+body{
+
+    font-family: Helvetica, sans-serif;
+
+    font-size: 20px;
+
+    background-color:skyblue;
+
+}
+
+.Box1{
+
+    background-color: blue;
+
+    color: white;
+
+    text-align: center;
+
+    width: 100px;
+
+    height: 100px;
+
+    padding:5px;
+
+    margin: 10px;
+
+    flex-grow: 1;
+
+    border-radius: 5px;
+
+    border: 2px solid white;
+}
+
+.Box2{
+
+    background-color: purple;
+
+    color: white;
+
+    text-align: center;
+
+    width: 100px;
+
+    height: 100px;
+
+    padding:5px;
+
+    margin: 10px;
+
+    flex-grow: 4;
+
+    border-radius: 5px;
+
+    border: 2px solid white;
+}
+
+.Box3{
+
+    background-color: green;
+
+    color: white;
+
+    text-align: center;
+
+    width: 100px;
+
+    height: 100px;
+
+    padding:5px;
+
+    margin: 10px;
+
+    flex-grow: 1;
+
+    border-radius: 5px;
+
+    border: 2px solid white;
+}
+
+.linebreak{
+
+    background-color: black;
+
+    height: 2px;
+
+    flex-basis: 100%;
+
+
+}
+
+.Box4{
+
+    background-color:goldenrod ;
+
+    color: #ffffff;
+
+    text-align: center;
+
+    width: 100px;
+
+    height: 100px;
+
+    padding:5px;
+
+    margin: 10px;
+
+    flex-grow: 1;
+
+    border-radius: 5px;
+
+    border: 2px solid white;
+}
+
+.Box5{
+
+    background-color: blueviolet;
+
+    color: white;
+
+    text-align: center;
+
+    width: 100px;
+
+    height: 100px;
+
+    padding:5px;
+
+    margin: 10px;
+
+    flex-grow: 1;
+
+    border-radius: 5px;
+
+    border: 2px solid white;
+}
+
+.Box6{
+
+    background-color: orange;
+
+    color: white;
+
+    text-align: center;
+
+    width: 100px;
+
+    height: 100px;
+
+    padding:5px;
+
+    margin: 10px;
+
+    flex-grow: 3;
+
+    border-radius: 5px;
+
+    border: 2px solid white;
+}
+
+.Box7{
+
+    background-color: hotpink;
+
+    color: white;
+
+    text-align: center;
+
+    width: 100px;
+
+    height: 100px;
+
+    padding:5px;
+
+    margin: 10px;
+
+    flex-grow: 1;
+
+    border-radius: 5px;
+
+    border: 2px solid white;
+}
+
+.Box8{
+
+    background-color: indigo;
+
+    color: white;
+
+    text-align: center;
+
+    width: 100px;
+
+    height: 100px;
+
+    padding:5px;
+
+    margin: 10px;
+
+    flex-grow: 1;
+
+    border-radius: 5px;
+
+    border: 2px solid white;
+}
+
+.Box9{
+
+    background-color: red;
+
+    color: white;
+
+    text-align: center;
+
+    width: 100px;
+
+    height: 100px;
+
+    padding:5px;
+
+    margin: 10px;
+
+    flex-grow: 1;
+
+    border-radius: 5px;
+
+    border: 2px solid white;
+}
+
+.Box10{
+
+    background-color: yellow;
+
+    color: white;
+
+    text-align: center;
+
+    width: 100px;
+
+    height: 100px;
+
+    padding:5px;
+
+    margin: 10px;
+
+    flex-grow: 1;
+
+    border-radius: 5px;
+
+    border: 2px solid white;
+}
+
+.Box11{
+
+    background-color: darkslategrey;
+
+    color: white;
+
+    text-align: center;
+
+    width: 100px;
+
+    height: 100px;
+
+    padding:5px;
+
+    margin: 10px;
+
+    flex-grow: 1;
+
+    border-radius: 5px;
+
+    border: 2px solid white;
+}
+
+.Box12{
+
+    background-color: floralwhite;
+
+    color: black;
+
+    text-align: center;
+
+    width: 100px;
+
+    height: 100px;
+
+    padding:5px;
+
+    margin: 10px;
+
+    flex-grow: 1;
+
+    border-radius: 5px;
+
+    border: 2px solid brown;
+
+    align-self: stretch;
+}
+
+.Box13{
+
+    background-color: rgb(73, 253, 18);
+
+    color: white;
+
+    text-align: center;
+
+    width: 100px;
+
+    height: 100px;
+
+    padding:5px;
+
+    margin: 10px;
+
+    flex-grow: 1;
+
+    border-radius: 5px;
+
+    border: 2px solid white;
+}
